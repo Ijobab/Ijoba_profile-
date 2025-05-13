@@ -1,1 +1,65 @@
 # Ijoba_profile-
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Omodele Damilola Timothy (IJOBA) – Politician, Health Advocate, Peace Ambassador, and Director at FIRST YOMAG NIG LIMITED Nigeria.">
+    <title>Omodele Damilola Timothy (IJOBA)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #A50044, #004D98); /* Barcelona colors */
+            color: #fff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            padding: 20px;
+            background: rgba(0, 0, 0, 0.5);
+            border-radius: 12px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .social-links a {
+            color: #ffcc00;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Omodele Damilola Timothy (IJOBA)</h1>
+        <p><strong>Politician | Teacher | Relationship Counselor | Microbiologist | Director at FIRST YOMAG NIG LIMITED | Health Advocate | Peace Ambassador | Engineering Supervision</strong></p>
+        <p>I am passionate about making dreams come true. I care deeply about politics, sports, tech, engineering, science, finances, and building meaningful relationships. My dream is bigger than me, and I believe in working with people who want to make Nigeria great again.</p>
+        <div class="social-links">
+            <p>Follow me:</p>
+            <a href="https://instagram.com/ijoba_honcho" target="_blank">Instagram</a>
+            <a href="https://facebook.com/ijoba_honcho" target="_blank">Facebook</a>
+            <p>Contact me on WhatsApp: <strong>08034530568</strong></p>
+        </div>
+        <div class="footer">
+            &copy; 2025 Omodele Damilola Timothy (IJOBA)
+        </div>
+    </div>
+</body>
+</html>
