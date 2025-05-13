@@ -48,7 +48,7 @@
 <body>
     <div class="container">
         <h1>Omodele Damilola Timothy (IJOBA)</h1>
-        <p><strong>Politician | Teacher | Relationship Counselor | Microbiologist | Director at FIRST YOMAG NIG LIMITED | Health Advocate | Peace Ambassador | Engineering Supervision</strong></p>
+        <p><strong>Politician | Teacher | Relationship Counselor | Microbiologist | Director at FIRST YOMAG NIG LIMITED | Health Advocate | Peace Ambassador | Engineering Supervisior </strong></p>
         <p>I am passionate about making dreams come true. I care deeply about politics, sports, tech, engineering, science, finances, and building meaningful relationships. My dream is bigger than me, and I believe in working with people who want to make Nigeria great again.</p>
         <div class="social-links">
             <p>Follow me:</p>
